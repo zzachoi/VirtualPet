@@ -1,4 +1,4 @@
-Olympic Rings
+Penguin
 =============
 
 ![picture of penguin](Penguin.JPG)  
