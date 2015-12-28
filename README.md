@@ -3,13 +3,4 @@ Olympic Rings
 
 ![picture of penguin](Penguin.JPG)  
 
-In this assignment you will write a program that displays a design similar to the Olympic Rings. Your program will have about 13 lines of code and use the following functions (some more than once):
-
-*	`ellipse()`  
-*	`size()`  
-*	`noFill()`  
-*	`stroke()`  
-*	`strokeWeight()`
-*	Optional `smooth()`  
-
-Don't hesitate to ask for help if your aren't sure how something is suppose to work.
+In this project you will write a program that displays a penguin or any other animal of your choice. You can use any drawing functions that you would like. Your program does not have to look just like the picture of mine above, the precise picture you draw is entirely up to you -- be creative!
