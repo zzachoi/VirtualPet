@@ -6,6 +6,5 @@ In this project you will write a program that displays a penguin or any other an
 
 Samples of Student Work
 -----------------------
-[Adrianna's penguin](http://bartalottia16.github.io/Penguin)  
 [Isabel's bear](http://isabel98b.github.io/Penguin/)  
 
