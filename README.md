@@ -1,4 +1,4 @@
-![](Penguin.JPG)
+![](Penguin.JPG)   
 Penguin
 =============
 
