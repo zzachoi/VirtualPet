@@ -6,5 +6,6 @@ In this project you will write a program using [code.org game lab](https://code.
 
 Samples of Student Work
 -----------------------
-[Isabel's bear](http://isabel98b.github.io/Penguin/)  
+[Christina](https://studio.code.org/projects/gamelab/5RCikKVSKhrOoGX47b-OeD1-v8qlCDgfELGhrcoHArI)  
+[Tommy](https://studio.code.org/projects/gamelab/q1NbW3Z6QFoXF9Ii0kq4VpBSgGdGkGbiJjhy0UFDuSA)   
 
