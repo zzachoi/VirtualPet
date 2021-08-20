@@ -10,10 +10,10 @@ Note: The following Processing functions do not work on the web:
 ----------------------------------------------------------
 + `circle()`
 + `square()`
-+ `clear()
-+ `delay()
-+ `System.out.println()
-+ `System.out.print()
++ `clear()`
++ `delay()`
++ `System.out.println()`
++ `System.out.print()`
 + Using `CHORD` or `PIE` modes with `arc()`
 + Using an image as an argument in `background()`
 
