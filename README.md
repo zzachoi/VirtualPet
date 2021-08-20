@@ -6,7 +6,7 @@ In this project you will write a program using [Processing](https://processing.o
 
 When you are happy with the appearance of your virtual pet, you will post your finished program to GitHub. In the next assignment we will [use an Arduino to interact with your virtual pet](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program). As you work on your design, think about an element of the design that could be changed with a single variable.
 
-The following Processing functions do not work on the web:
+Note: The following Processing functions do not work on the web:
 ----------------------------------------------------------
 + `circle()`
 + `square()`
