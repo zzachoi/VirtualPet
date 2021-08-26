@@ -21,5 +21,8 @@ Note: The following Processing functions do not work on the web:
 
 Samples of Student Work
 -----------------------
-[Johnny](https://jlin202.github.io/VirtualPet/)
+[Johnny](https://jlin202.github.io/VirtualPet/)   
+[Nash](https://moonnash.github.io/VirtualPet/)   
+[Max](https://max-2023.github.io/VirtualPet/)   
+[https://zoeyzhu.github.io/VirtualPet/](https://zoeyzhu.github.io/VirtualPet/)   
 
