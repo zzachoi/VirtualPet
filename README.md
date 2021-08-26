@@ -24,5 +24,5 @@ Samples of Student Work
 [Johnny](https://jlin202.github.io/VirtualPet/)   
 [Nash](https://moonnash.github.io/VirtualPet/)   
 [Max](https://max-2023.github.io/VirtualPet/)   
-[https://zoeyzhu.github.io/VirtualPet/](https://zoeyzhu.github.io/VirtualPet/)   
+[Zoey](https://zoeyzhu.github.io/VirtualPet/)   
 
