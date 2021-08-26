@@ -21,5 +21,5 @@ Note: The following Processing functions do not work on the web:
 
 Samples of Student Work
 -----------------------
-None yet! 
+[Johnny](https://jlin202.github.io/VirtualPet/)
 
