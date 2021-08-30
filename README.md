@@ -18,6 +18,7 @@ Note: The following Processing functions do not work on the web:
 + `System.out.print()`
 + Using `CHORD` or `PIE` modes with `arc()`
 + Using an image as an argument in `background()`
++ Arduino code
 
 Samples of Student Work
 -----------------------
