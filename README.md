@@ -22,7 +22,32 @@ Note: The following Processing functions do not work on the web:
 Samples of Student Work
 -----------------------
 [Johnny](https://jlin202.github.io/VirtualPet/)   
+[Tiffany](https://tiffanyt11.github.io/VirtualPet/)   
 [Nash](https://moonnash.github.io/VirtualPet/)   
 [Max](https://max-2023.github.io/VirtualPet/)   
+[Kaitlin](https://kaiyenpepper.github.io/VirtualPet/)   
 [Zoey](https://zoeyzhu.github.io/VirtualPet/)   
+[Federico](https://feaprile.github.io/VirtualPet/)   
+[Jocelyn](https://jxcelynyu.github.io/VirtualPet/)   
+[Eric](https://erchan3.github.io/VirtualPet/)   
+[Koey](https://koeychan.github.io/VirtualPet/)   
+[Chun Ho](https://chchen4.github.io/VirtualPet/)   
+[Curtis](https://curtischen1.github.io/VirtualPet/)   
+[Kenny](https://kennych13.github.io/VirtualPet/)   
+[Pansy](https://pakuang.github.io/VirtualPet/)   
+[Alison](https://apcsci.github.io/VirtualPet/)   
+[Nikhita](https://nilaw5.github.io/VirtualPet/)   
+[Keneth](https://kenethl.github.io/VirtualPet/)   
+[Tiffany](https://tilouie2.github.io/VirtualPet/)   
+[Jimmy](https://jimmy1433223.github.io/VirtualPet/)   
+[Caeron](https://canguyen1.github.io/VirtualPet/)   
+[Sam](https://samrosenblum415.github.io/VirtualPet/)   
+[Tyler](https://ty237.github.io/VirtualPet/)   
+[Albert](https://alshi31.github.io/VirtualPet/)   
+[Gabriella](https://gabriellasu.github.io/VirtualPet/)   
+[Michelle](https://mitan4.github.io/VirtualPet/)   
+[Alex](https://alexhackathon.github.io/VirtualPet/)   
+[Viva](https://vivavoong.github.io/VirtualPet/)   
+
+
 
