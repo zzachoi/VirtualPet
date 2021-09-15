@@ -16,6 +16,7 @@ Note: The following Processing functions do not work on the web:
 + `delay()`
 + `System.out.println()`
 + `System.out.print()`
++ `push()` and `pop()`
 + Using `CHORD` or `PIE` modes with `arc()`
 + Using an image as an argument in `background()`
 + Arduino code
