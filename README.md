@@ -149,3 +149,13 @@ Samples of Student Work
 [Jason](https://jasonzhong3.github.io/VirtualPet/)   
 [Ivan](https://ivzhu1.github.io/VirtualPet/)   
 [Tobias](https://tobyzuercher.github.io/VirtualPet/)   
+[Manuel](https://manuelalcaz101.github.io/VirtualPet/)  
+[Willa](https://willaandrade.github.io/VirtualPet/)
+[James](https://jamesbackstrom43.github.io/VirtualPet/)
+[Kathleen](https://kathb3.github.io/VirtualPet/)
+[Juan](https://jucalvohuerta.github.io/VirtualPet/)
+[Toby](https://tobyjchan.github.io/VirtualPet/)
+[Ryan] (https://rchen0902.github.io/VirtualPet/)
+[Ryan](https://rychick.github.io/VirtualPet/)
+
+
