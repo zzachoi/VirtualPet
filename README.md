@@ -185,3 +185,7 @@ Samples of Student Work
 [Samson](https://xusamson8.github.io/VirtualPet/)    
 [Patrick](https://patyao.github.io/VirtualPet/)   
 [Diego](https://diegoyuhuang.github.io/VirtualPet/)   
+[Luca](https://luca321222.github.io/VirtualPet/)  
+[Cuiyin](https://anna-c2.github.io/VirtualPet/)   
+[Laura](https://lachen2.github.io/VirtualPet/)   
+[Noel](https://nochen1.github.io/VirtualPet/)    
