@@ -155,7 +155,7 @@ Samples of Student Work
 [Kathleen](https://kathb3.github.io/VirtualPet/)
 [Juan](https://jucalvohuerta.github.io/VirtualPet/)
 [Toby](https://tobyjchan.github.io/VirtualPet/)
-[Ryan] (https://rchen0902.github.io/VirtualPet/)
+[Ryan](https://rchen0902.github.io/VirtualPet/)
 [Ryan](https://rychick.github.io/VirtualPet/)
 
 
