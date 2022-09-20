@@ -189,3 +189,4 @@ Samples of Student Work
 [Cuiyin](https://anna-c2.github.io/VirtualPet/)   
 [Laura](https://lachen2.github.io/VirtualPet/)   
 [Noel](https://nochen1.github.io/VirtualPet/)    
+[Yiyuan](https://2005benchen.github.io/VirtualPet/)    
